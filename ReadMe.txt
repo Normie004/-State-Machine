@@ -1,4 +1,4 @@
-I have successfully completed lab 4 with all the functions required. In this lab I have used recursive functions like 'while'. I have stored my personalized fsm as a linked list. There is use of pointers in the code so as to create the above mentioned linked list structure. malloc was used to allocate the memory in each 'node' that points to the personalized state machine.
+Used recursive functions like 'while'. I have stored my personalized fsm as a linked list. There is use of pointers in the code so as to create the above mentioned linked list structure. malloc was used to allocate the memory in each 'node' that points to the personalized state machine.
 
 '0' and'1' prints the respective state of the current state.
 
